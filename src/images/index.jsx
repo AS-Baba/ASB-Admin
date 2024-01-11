@@ -1,7 +1,7 @@
 export const Images = {
-    logo_mini: require('../images/logo-mini.svg').default,
-    logo: require('../images/logo.svg').default,
-    favicon: require('../images/favicon.png').default,
+    logo_mini: require('./logo-mini.svg').default,
+    logo: require('./logo.svg').default,
+    favicon: require('./favicon.png').default,
 
     locksreen_bg: require('./auth/lockscreen-bg.jpg'),
     login_bg: require('./auth/Login_bg.jpg'),

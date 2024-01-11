@@ -29204,23 +29204,23 @@ div.tagsinput span.tag a {
 /* === Landing screens === */
 /* Auth */
 .auth.login-bg {
-    background: url('./Components/images/auth/login-bg.jpg');
+    background: url('images/auth/login-bg.jpg');
     /* background-repeat: no-repeat; */
     background-size: cover;
 }
 
 .auth .login-half-bg {
-    background-image: url('./Components/images/auth/Login_bg.jpg');
+    background-image: url('images/auth/Login_bg.jpg');
     background-size: cover;
 }
 
 .auth.register-half-bg {
-    background: url("./Components/images/auth/register-bg.jpg");
+    background: url("images/auth/register-bg.jpg");
     background-size: cover;
 }
 
 .auth.lock-full-bg {
-    background: url('./Components/images/auth/lockscreen-bg.jpg');
+    background: url('images/auth/lockscreen-bg.jpg');
     background-size: cover;
 }
 
