@@ -1,6 +1,6 @@
 import React from 'react'
-import {Images} from "./images/index"
-import login from "./images/auth/Login_bg.jpg"
+import {Images} from "../images/index"
+import login from "../images/auth/Login_bg.jpg"
 import PropTypes from 'prop-types'
 
 const Register = props => {
@@ -9,7 +9,7 @@ const Register = props => {
     <div className="container-scroller" >
       <div className="container-fluid page-body-wrapper full-page-wrapper">
         <div className="row w-100 m-0">
-        <div className="content-wrapper full-page-wrapper d-flex align-items-center auth login-bg " style={{background:'url('+ require('./images/auth/Login_bg.jpg')+')'}}>
+        <div className="content-wrapper full-page-wrapper d-flex align-items-center auth login-bg " style={{background:'url('+ require('../images/auth/Login_bg.jpg')+')'}}>
             <div className="card col-lg-4 mx-auto">
               <div className="card-body px-5 py-5">
                 <h3 className="card-title text-left mb-3">Register</h3>
