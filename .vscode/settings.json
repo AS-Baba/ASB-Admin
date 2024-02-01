@@ -1,0 +1,6 @@
+{
+  "workbench.settings.openDefaultSettings": true,
+  "liveServer.settings.fullReload": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.autoSave": "afterDelay"
+}
